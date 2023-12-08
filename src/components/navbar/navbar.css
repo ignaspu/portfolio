@@ -1,0 +1,17 @@
+.navbar {
+  height: 5em;
+  width: 100%;
+  background-color: #030712;
+  top: 0;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.hamburger-react {
+  margin-left: 2em;
+}
+
+h1{
+  font-size: 1.5rem;
+}

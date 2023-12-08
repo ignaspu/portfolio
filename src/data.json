@@ -1,0 +1,96 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "date": "2022 rugsėjis - Dabar",
+      "position": "Internetinės parduotuvės vadovas",
+      "points": [
+        "PrestaShop CMS valdymas ir programavimas", "Įgavau didelę bazę internetinės prekybos žinių", "Gebėjau išspręsti problemas su techninėmis problemomis"
+      ]
+    },{
+      "id": 2,
+      "date": "2020 lapkritis - 2021 vasaris",
+      "position": "Praktikantas",
+      "points": [
+        "Rinkodaros sprendimų generavimas", "Bendradarbiavimas su komandos nariais, siekdamas užtikrinti puikų bendravimą", "Turinio kūrimas įvairioms skaitmeninėms platformoms"
+      ]
+    },{
+      "id": 3,
+      "date": "2020 sausis - 2020 liepa",
+      "position": "Rinkodaros vadybininkas",
+      "points": [
+        "Generavau klientų pritraukimo strategijas, siekiant padidinti pardavimus", "Sukūriau ir įgyvendinau rinkodaros kampanijas", "Įdiegiau SEO ir SEM strategijas siekdamas padidinti paieškos indeksavimo rodiklį"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/javascript.svg",
+      "name": "Javascript"
+    },{
+      "id": 2,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/react.svg",
+      "name": "React"
+    },{
+      "id": 3,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/figma.svg",
+      "name": "Figma"
+    },{
+      "id": 4,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/git.svg",
+      "name": "Git"
+    },{
+      "id": 5,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/sass.svg",
+      "name": "Sass"
+    },{
+      "id": 6,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/prestashop.svg",
+      "name": "PrestaShop"
+    },{
+      "id": 7,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/wp.svg",
+      "name": "Wordpress"
+    },{
+      "id": 8,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/ai.svg",
+      "name": "Illustrator"
+    },{
+      "id": 9,
+      "image": "https://filebin.net/5nm193f7lv9vn8dt/ps.svg",
+      "name": "Photoshop"
+    }
+  ],
+  "work": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/N8rHFt1.png",
+      "title": "Internetinis forumas",
+      "description": "Internetinio forumo platforma su galimybę registruotis, prisijungti. Prisijungus galima vertinti pranešimus, komentuoti, vertinti komentarus.",
+      "tools": ["React", "Javascript", "HTML", "CSS"],
+      "url": "https://github.com/ignaspu/galutinis-projektas"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "image": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste optio facilis dolorum corporis asperiores, ullam autem repellat vel eos consequatur labore officiis voluptatibus nihil fugiat quasi eveniet illo dignissimos.",
+      "author": "jOHN DOE",
+      "web": "xyz.com"
+    },{
+      "id": 2,
+      "image": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste optio facilis dolorum corporis asperiores, ullam autem repellat vel eos consequatur labore officiis voluptatibus nihil fugiat quasi eveniet illo dignissimos.",
+      "author": "jOHN DOE",
+      "web": "xyz.com"
+    },{
+      "id": 3,
+      "image": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste optio facilis dolorum corporis asperiores, ullam autem repellat vel eos consequatur labore officiis voluptatibus nihil fugiat quasi eveniet illo dignissimos.",
+      "author": "jOHN DOE",
+      "web": "xyz.com"
+    }
+  ]
+}

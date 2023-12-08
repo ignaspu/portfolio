@@ -1,0 +1,21 @@
+/* @media (min-width: 768px) {
+  .hamburger-react{
+    display: none;
+  }
+  ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    background-color: #030712;
+    justify-content: space-evenly;
+    >li{
+      a{
+
+      }
+    }
+  }
+  .sc-bZSSAB .gbsbRE{
+    display: none;
+  }
+} */
